@@ -1,0 +1,2 @@
+# example-project
+GitHub Training
